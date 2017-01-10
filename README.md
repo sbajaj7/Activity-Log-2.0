@@ -13,4 +13,4 @@ A dynamic, interactive web application built on a WAMP stack (Apache, PHP, MySQL
 <br><br>
 <a href="url"><img src="https://github.com/sbajaj7/Activity-Log-2.0/blob/master/Helpdesk1.PNG" align="left" height="800" width="1000" ></a>
 <br><br>
-<a href="url"><img src="https://github.com/sbajaj7/Activity-Log-2.0/blob/master/NewSnapshot.PNG" align="left" height="800" width="1000" ></a>
+<a href="url"><img src="https://github.com/sbajaj7/Activity-Log-2.0/blob/master/Testcase.PNG" align="left" height="800" width="1000" ></a>
