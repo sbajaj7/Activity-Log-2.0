@@ -7,6 +7,8 @@
 <br><br>
 <a href="url"><img src="https://github.com/sbajaj7/Activity-Log-2.0/blob/master/Dashboard%202.PNG" align="left" height="800" width="1000" ></a>
 <br><br>
+<a href="url"><img src="https://github.com/sbajaj7/Activity-Log-2.0/blob/master/stackedbarchart.PNG" align="left" height="800" width="1000" ></a>
+<br><br>
 <a href="url"><img src="https://github.com/sbajaj7/Activity-Log-2.0/blob/master/Dashboard%203.PNG" align="left" height="800" width="1000" ></a>
 <br><br>
 <a href="url"><img src="https://github.com/sbajaj7/Activity-Log-2.0/blob/master/Filter.PNG" align="left" height="800" width="1000" ></a>
